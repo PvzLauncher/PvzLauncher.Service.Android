@@ -2,8 +2,10 @@
     "GameIndex":[
         {
             "GameName":"植物大战僵尸 安卓原版",
-            "GameLink":"",
-            "GameImage":""
+            "GameLink":"https://gitee.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameApks/Origin.apk",
+            "GameImage":"https://gitee.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameImages/Origin.png",
+            "GameSize":"73.55MB",
+            "GameVersion":"1.2.0"
         }
     ]
 }

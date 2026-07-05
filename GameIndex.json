@@ -5,7 +5,15 @@
             "GameLink":"https://gitee.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameApks/Origin.apk",
             "GameImage":"https://raw.giteeusercontent.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameAssets/Origin.png",
             "GameSize":"73.55MB",
-            "GameVersion":"1.2.0"
+            "GameVersion":"1.2.0",
+            "GameDescription":"《植物大战僵尸》（Plants vs. Zombies，PVZ）是由美国宝开游戏公司（PopCap Games）设计师范乔治（George Fan）主导开发的一款益智策略类塔防御战游戏，其创作灵感源于《怪鱼水族馆》续集企划，后转型为以植物对抗僵尸为主题的塔防玩法。游戏最早被命名为《活死人之园》，影射僵尸电影《活死人黎明》。因法律原因，最终改名为《植物大战僵尸》。游戏于2009年5月5日发售， 支持平台包含PC, Mac, Mobile等。",
+            "ScreenShoot":[
+                "https://raw.giteeusercontent.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/001.png",
+                "https://raw.giteeusercontent.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/002.png",
+                "https://raw.giteeusercontent.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/003.png",
+                "https://raw.giteeusercontent.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/004.png",
+                "https://raw.giteeusercontent.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/005.png"
+            ]
         }
     ]
 }

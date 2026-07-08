@@ -1,7 +1,8 @@
 {
     "GameIndex":[
         {
-            "GameName":"植物大战僵尸 安卓原版",
+            "PackageName":"com.popcap.pvz",
+            "GameName":"植物大战僵尸 一代原版",
             "GameLink":"https://lz.qaiu.top/parser?url=https://xiaowang0229.lanzoue.com/iWK3x3uzg46f&pwd=ekrt",
             "GameImage":"https://raw.giteeusercontent.com/PvzLauncher/PvzLauncher.Service.Android/raw/main/GameAssets/Origin.png",
             "GameSize":"73.55MB",

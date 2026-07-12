@@ -1,5 +1,5 @@
 {
-    "LatestVersion":"1.0.0-RC.1 “BugFix-1”",
-    "LatestDescription":"[1.0.0-RC.1 “BugFix-1” 版本更新日志]\r\n 1.在首次启动时显示申请了应用内安装包的权限，用于自更新和Pvz版本的安装\r\n 2.对于网络请求一律设置错误捕获，避免因为此类原因再崩溃\r\n 3.由于特殊原因，更换了上游服务器地址\r\n 4.修复了启动时检测更新更改状态后再次检测的问题\r\n 5.设置内增加了启动时是否检测更新的功能，推荐启用\r\n 6.修复了下载完成后无法正常写入App包名的漏洞\r\n 7.设置内预置了主题切换相关功能，预计于近期推出\r\n 8.为可能出现多个项目的下载，管理，设置，关于页面添加了竖向滚动支持",
-    "LatestLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/boeZkmb2"
+    "LatestVersion":"1.0.0-RC.2 “BugFix-2”",
+    "LatestDescription":"[1.0.0-RC.2 “BugFix-2” 版本更新日志]\r\n1.修复了因排版问题导致的显示错误\r\n2.修复在部分机型上无法访问网络的错误\r\n3.修复其他已知问题",
+    "LatestLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/IxeargiU"
 }

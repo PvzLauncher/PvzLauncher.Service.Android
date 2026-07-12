@@ -3,10 +3,12 @@
         {
             "PackageName":"com.popcap.pvz",
             "GameName":"植物大战僵尸 一代国际中文版",
-            "GameLink":{
-                "VersionName":"原版(1.2)",
-                "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8CeFjmO4"
-            },
+            "GameLink":[
+                {
+                    "VersionName":"原版(1.2)",
+                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8CeFjmO4"
+                }
+            ],
             "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Origin.png",
             "GameSize":"73.55MB",
             "GameVersion":"1.2",

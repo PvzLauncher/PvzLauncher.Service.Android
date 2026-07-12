@@ -1,10 +1,13 @@
 {
             "PackageName":"",
             "GameName":"",
-            "GameLink":{
-                "VersionName":"",
-                "VersionLink":""
-            },
+            "GameLink":
+            [
+                {
+                    "VersionName":"",
+                    "VersionLink":""
+                }
+            ],
             "GameImage":"",
             "GameSize":"",
             "GameVersion":"",

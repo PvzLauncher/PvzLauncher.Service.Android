@@ -1,17 +1,25 @@
 {
     "GameIndex":[
         {
-            "PackageName":"com.popcap.pvz",
-            "GameName":"植物大战僵尸 一代国际中文版",
+            
+            "GameName":"植物大战僵尸 一代",
             "GameLink":[
                 {
-                    "VersionName":"原版(1.2)",
-                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8CeFjmO4"
+                    "VersionName":"国际版原版",
+                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/1Ke58Kzr",
+                    "VersionVer":"1.2",
+                    "VersionSize":"76.93MB",
+                    "PackageName":"com.popcap.pvz"
+                },
+                {
+                    "VersionName":"国际版修改器版",
+                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/D9e58n9z",
+                    "VersionVer":"1.2",
+                    "VersionSize":"74.90MB",
+                    "PackageName":"com.popcap.pvz"
                 }
             ],
             "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Origin.png",
-            "GameSize":"73.55MB",
-            "GameVersion":"1.2",
             "GameDescription":"《植物大战僵尸》（Plants vs. Zombies，PVZ）是由美国宝开游戏公司（PopCap Games）设计师范乔治（George Fan）主导开发的一款益智策略类塔防御战游戏，其创作灵感源于《怪鱼水族馆》续集企划，后转型为以植物对抗僵尸为主题的塔防玩法。游戏最早被命名为《活死人之园》，影射僵尸电影《活死人黎明》。因法律原因，最终改名为《植物大战僵尸》。游戏于2009年5月5日发售， 支持平台包含PC, Mac, Mobile等。",
             "ScreenShoot":[
                 "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/001.png",
@@ -20,6 +28,68 @@
                 "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/004.png",
                 "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/005.png"
             ]
+        },
+        {
+            "PackageName":"com.ea.game.pvz2_row",
+            "GameName":"植物大战僵尸 二代",
+            "GameLink":
+            [
+                {
+                    "VersionName":"国际版",
+                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Qxe55yb2",
+                    "VersionVer":"13.2.1",
+                    "VersionSize":"967.93MB",
+                    "PackageName":"com.ea.game.pvz2_row"
+                },
+                {
+                    "VersionName":"国服",
+                    "VersionLink":"https://pvz2apk-cdn.hrgame.com.cn/416/baokai_4.1.6_1825_603_dj2.0-4.0.0.apk",
+                    "VersionVer":"4.1.6",
+                    "VersionSize":"2.33GB",
+                    "PackageName":"com.popcap.pvz2cthdbk"
+                }
+            ],
+            "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv2.png",
+            "GameDescription":"童年经典回归！快来《植物大战僵尸 2》，跟着戴夫与潘妮穿梭多元时空，组建超强植物小队，粉碎僵尸大军的邪恶计划！",
+            "ScreenShoot":[
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/001.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/002.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/003.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/004.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/005.png"
+            ]
+
+        },
+        {
+            "PackageName":"com.ea.gp.pvzn3xt",
+            "GameName":"植物大战僵尸 三代",
+            "GameLink":
+            [
+                {
+                    "VersionName":"国际版",
+                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/kHe6lGSR",
+                    "VersionVer":"30.2.8",
+                    "VersionSize":"211.20MB",
+                    "PackageName":"com.ea.gp.pvzn3xt"
+                },
+                {
+                    "VersionName":"国服",
+                    "VersionLink":"https://pvz3-mdownload.mengxingstar.com/latest/pvz3-latest.apk",
+                    "VersionVer":"10.3.0",
+                    "VersionSize":"874.22MB",
+                    "PackageName":"com.plantsvszombies3.mengxing"
+                }
+            ],
+            "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv3.png",
+            "GameDescription":"《植物大战僵尸3》中文版是EA正版授权的植物大战僵尸系列第三部主线作品，由迷你创想和EA合作研发，本作将在保持IP原汁原味感受的基础上，进行开创式的设计和共创。我们致力于打造一款长续经营、健康活力的作品，努力让这个满载童年欢乐的IP焕发更多光彩",
+            "ScreenShoot":[
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/001.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/002.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/003.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/004.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/005.png"
+            ]
+
         }
     ]
 }

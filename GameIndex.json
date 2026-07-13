@@ -20,7 +20,7 @@
                 }
             ],
             "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Origin.png",
-            "GameDescription":"《植物大战僵尸》（Plants vs. Zombies，PVZ）是由美国宝开游戏公司（PopCap Games）设计师范乔治（George Fan）主导开发的一款益智策略类塔防御战游戏，其创作灵感源于《怪鱼水族馆》续集企划，后转型为以植物对抗僵尸为主题的塔防玩法。游戏最早被命名为《活死人之园》，影射僵尸电影《活死人黎明》。因法律原因，最终改名为《植物大战僵尸》。游戏于2009年5月5日发售， 支持平台包含PC, Mac, Mobile等。",
+            "GameDescription":"《植物大战僵尸》（Plants vs. Zombies，PVZ）是由美国宝开游戏公司（PopCap Games）设计师范乔治（George Fan）主导开发的一款益智策略类塔防御战游戏，其创作灵感源于《怪鱼水族馆》续集企划，后转型为以植物对抗僵尸为主题的塔防玩法。游戏最早被命名为《活死人之园》，影射僵尸电影《活死人黎明》。因法律原因，最终改名为《植物大战僵尸》。游戏于2009年5月5日发售， 支持平台包含PC, Mac, Mobile等。\r\n玩家通过武装多种植物切换不同的功能，快速有效地把僵尸阻挡在入侵的道路上。多达50个的冒险模式关卡设定，从白天到夜晚，从房顶到游泳池，场景变化多样。有26种不同的僵尸敌人，50多种功能强大的植物，而每个场景最多只能选用10种植物，这就需要玩家根据自己的游戏策略来作出取舍；可收集硬币购买宠物蜗牛等多种可选道具。游戏提供五种主要模式：冒险模式；迷你游戏与解谜模式；生存模式；禅境花园。",
             "ScreenShoot":[
                 "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/001.png",
                 "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/002.png",
@@ -88,6 +88,68 @@
                 "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/005.png"
             ]
 
+        },
+        {
+            "GameName":"植物大战僵尸 杂交版",
+            "GameLink":
+            [
+                {
+                    "VersionName":"原版",
+                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/L8e8Miii",
+                    "VersionVer":"0.12",
+                    "VersionSize":"369.90MB",
+                    "PackageName":"xvwugame.PlantsVsZombies"
+                },
+                {
+                    "VersionName":"修改器版",
+                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/ZPe8MNmu",
+                    "VersionVer":"0.12",
+                    "VersionSize":"390.45MB",
+                    "PackageName":"xvwugame.PlantsVsZombies"
+                }
+            ],
+            "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ZaJiao.png",
+            "GameDescription":"植物大战僵尸杂交版是由B站UP主潜艇伟伟迷主导开发的一款同人塔防游戏，于2024年3月27日正式发布。它基于原版PopCap引擎制作，忠实保留经典塔防核心玩法，同时创新引入“植物杂交”系统，成为2024年备受老玩家推崇的经典改版代表作，并于同年6月19日正式入驻《植物大战僵尸》官方创意模式。\r\n该版本的核心特点在于植物杂交机制。游戏内置了诸多杂交植物，例如豌豆射手与向日葵杂交后同时具备射击与产阳光功能，火炬树桩与坚果杂交则形成兼具防御与火焰增强的火炬坚果。杂交植物按稀有度分为白卡、金卡、钻卡、星卡与彩卡，解锁方式多样（冒险关卡渐进、金卡需挑战通关、星卡需星星收集等），阳光消耗与冷却时间均经重新平衡。同时新增大量原创植物、强化僵尸（如读报冰车僵尸、头盔变体）及多个高难度关卡，策略深度显著提升。\r\n杂交版也包含了冒险、挑战、迷你游戏、生存及隐藏副本等多种模式，僵尸AI与出场机制优化明显，画面音效完全忠于原作。虽因原版引擎限制偶有闪退，但支持经典鼠标操作与后台运行，作者持续更新优化，使其成为原版引擎改版中平衡性与可玩性兼备的典范之作。",
+            "ScreenShoot":[
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/001.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/002.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/003.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/004.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/005.png"
+            ]
+
+        },
+        {
+            "GameName":"植物大战僵尸 融合版",
+            "GameLink":
+            [
+                {
+                    "VersionName":"原版",
+                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/q4e8NAOk",
+                    "VersionVer":"3.7",
+                    "VersionSize":"554.69MB",
+                    "PackageName":"com.LanPiaoPiao.PlantsVsZombiesRH"
+                },
+                {
+                    "VersionName":"修改器版",
+                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/oRe8N92O",
+                    "VersionVer":"3.2.1",
+                    "VersionSize":"470.04MB",
+                    "PackageName":"com.LanPiaoPiao.PlantsVsZombiesRH"
+                }
+                
+            ],
+            "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/RongHe.png",
+            "GameDescription":"植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。\r\n该版本的核心特点是玩家可将两株植物叠加种植进行融合，生成具备复合能力的新植物。例如豌豆射手与向日葵融合后，既能生产阳光又能射击；樱桃炸弹与豌豆融合则变为爆炸射手。融合支持多阶升级与道具叠加，配方随关卡逐步解锁，同时新增大量原创植物、僵尸及机制，阳光消耗与平衡均重新调整，使策略深度大幅提升。\r\n此外，融合版包含冒险、挑战、解谜、生存及独特的旅行模式（Roguelike究极对战），还设有副卡选卡、肥料增益等特色玩法。画面保留原作风趣，更新持续活跃，因平衡性优秀且无争议而备受玩家推崇，成为融合种植塔防的代表之作。",
+            "ScreenShoot":[
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/001.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/002.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/003.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/004.png",
+                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/005.png"
+            ]
+
         }
+        
     ]
 }

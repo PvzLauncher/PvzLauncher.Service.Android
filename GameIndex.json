@@ -8,15 +8,13 @@
                     "VersionName":"国际版原版",
                     "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/1Ke58Kzr",
                     "VersionVer":"1.2",
-                    "VersionSize":"76.93MB",
-                    "PackageName":"com.popcap.pvz"
+                    "VersionSize":"76.93MB"
                 },
                 {
                     "VersionName":"国际版修改器版",
                     "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/D9e58n9z",
                     "VersionVer":"1.2",
-                    "VersionSize":"74.90MB",
-                    "PackageName":"com.popcap.pvz"
+                    "VersionSize":"74.90MB"
                 }
             ],
             "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Origin.png",
@@ -37,19 +35,17 @@
                     "VersionName":"国际版",
                     "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/Qxe55yb2",
                     "VersionVer":"13.2.1",
-                    "VersionSize":"967.93MB",
-                    "PackageName":"com.ea.game.pvz2_row"
+                    "VersionSize":"967.93MB"
                 },
                 {
                     "VersionName":"国服",
                     "VersionLink":"https://pvz2apk-cdn.hrgame.com.cn/416/baokai_4.1.6_1825_603_dj2.0-4.0.0.apk",
                     "VersionVer":"4.1.6",
-                    "VersionSize":"2.33GB",
-                    "PackageName":"com.popcap.pvz2cthdbk"
+                    "VersionSize":"2.33GB"
                 }
             ],
             "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv2.png",
-            "GameDescription":"《植物大战僵尸2》系列（Plants vs. Zombies 2 Series）是由美国宝开游戏公司（PopCap Games）开发、美国艺电公司（Electronic Arts，EA）发行的休闲策略塔防游戏IP系列，是2009年发行的《植物大战僵尸》的正统续作延伸IP，核心围绕“植物抵御僵尸入侵”的核心设定，以时空穿越为叙事主线，融合策略塔防、休闲养成、竞技互动等多元玩法，衍生出多款游戏作品及各类周边内容，覆盖全年龄段玩家，成为全球极具影响力的休闲游戏IP之一。\r\n植物大战僵尸2系列延续了初代“收集阳光、种植植物、抵御僵尸”的核心塔防逻辑，在此基础上丰富了世界观与玩法体系，形成了独特的IP标识：\r\n世界观：以“时空穿越”为核心框架，玩家将跟随疯狂戴夫与机器人潘妮，穿越至古埃及、海盗港湾、狂野西部等十余个不同主题的时空，每个时空均有专属的环境机制（如沙尘暴、潮汐涨落）、植物种类与僵尸族群，构建了多元且富有想象力的游戏世界。\r\n核心元素：保留阳光收集、植物种植、僵尸波次防御等经典元素，新增植物能量系统、植物升阶、挂件加成等多种玩法，同时加入僵尸博士等标志性BOSS角色，强化策略纵深与游戏趣味性。\r\n风格定位：画面风格抛弃了以往植物大战僵尸1代的美术风格，转而采用矢量图、卡通化方向设计和绘制植物和僵尸，使得游戏动画更加流畅精美，同时形成了植物大战僵尸2最独特的IP特色。\r\n该IP自推出以来获得广泛认可，形成了众多的二次创作和衍生作品。",
+            "GameDescription":"《植物大战僵尸2》系列（Plants vs. Zombies 2 Series）是由美国宝开游戏公司（PopCap Games）开发、美国艺电公司（Electronic Arts，EA）发行的休闲策略塔防游戏IP系列，是2009年发行的《植物大战僵尸》的正统续作延伸IP，核心围绕“植物抵御僵尸入侵”的核心设定，以时空穿越为叙事主线，融合策略塔防、休闲养成、竞技互动等多元玩法，衍生出多款游戏作品及各类周边内容，覆盖全年龄段玩家，成为全球极具影响力的休闲游戏IP之一。\r\n植物大战僵尸2系列延续了初代“收集阳光、种植植物、抵御僵尸”的核心塔防逻辑，在此基础上丰富了世界观与玩法体系，形成了独特的IP标识,该IP自推出以来获得广泛认可，形成了众多的二次创作和衍生作品。",
             "ScreenShoot":[
                 "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/001.png",
                 "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/002.png",
@@ -67,15 +63,13 @@
                     "VersionName":"国际版",
                     "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/kHe6lGSR",
                     "VersionVer":"30.2.8",
-                    "VersionSize":"211.20MB",
-                    "PackageName":"com.ea.gp.pvzn3xt"
+                    "VersionSize":"211.20MB"
                 },
                 {
                     "VersionName":"国服",
                     "VersionLink":"https://pvz3-mdownload.mengxingstar.com/latest/pvz3-latest.apk",
                     "VersionVer":"10.3.0",
-                    "VersionSize":"874.22MB",
-                    "PackageName":"com.plantsvszombies3.mengxing"
+                    "VersionSize":"874.22MB"
                 }
             ],
             "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv3.png",
@@ -97,15 +91,13 @@
                     "VersionName":"原版",
                     "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/L8e8Miii",
                     "VersionVer":"0.12",
-                    "VersionSize":"369.90MB",
-                    "PackageName":"xvwugame.PlantsVsZombies"
+                    "VersionSize":"369.90MB"
                 },
                 {
-                    "VersionName":"修改器版",
+                    "VersionName":"修改版",
                     "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/ZPe8MNmu",
                     "VersionVer":"0.12",
-                    "VersionSize":"390.45MB",
-                    "PackageName":"xvwugame.PlantsVsZombies"
+                    "VersionSize":"390.45MB"
                 }
             ],
             "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ZaJiao.png",
@@ -127,15 +119,13 @@
                     "VersionName":"原版",
                     "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/q4e8NAOk",
                     "VersionVer":"3.7",
-                    "VersionSize":"554.69MB",
-                    "PackageName":"com.LanPiaoPiao.PlantsVsZombiesRH"
+                    "VersionSize":"554.69MB"
                 },
                 {
-                    "VersionName":"修改器版",
+                    "VersionName":"修改版",
                     "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/oRe8N92O",
                     "VersionVer":"3.2.1",
-                    "VersionSize":"470.04MB",
-                    "PackageName":"com.LanPiaoPiao.PlantsVsZombiesRH"
+                    "VersionSize":"470.04MB"
                 }
                 
             ],

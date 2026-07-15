@@ -1,24 +1,22 @@
 {
-            "GameName":"",
+            "GameName":"植物大战僵尸",
             "GameLink":
             [
                 {
                     "VersionName":"",
                     "VersionLink":"",
                     "VersionVer":"",
-                    "VersionSize":"",
-                    "PackageName":""
+                    "VersionSize":""
                 },
                 {
                     "VersionName":"",
                     "VersionLink":"",
                     "VersionVer":"",
-                    "VersionSize":"",
-                    "PackageName":""
+                    "VersionSize":""
                 }
             ],
             "GameImage":"",
             "GameDescription":"",
             "ScreenShoot":[]
 
-        }
+        },

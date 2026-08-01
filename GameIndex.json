@@ -1,6 +1,9 @@
 {
-    "GameIndex":[
+    "ListIndex":[
         {
+            "kindname":"原版",
+            "GameIndex":[
+                {
             
             "GameName":"植物大战僵尸 一代",
             "GameLink":[
@@ -82,8 +85,15 @@
                 "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/005.png"
             ]
 
+        }
+        
+            ]
+                
         },
         {
+            "kindname":"改版",
+            "GameIndex":[
+                {
             "GameName":"植物大战僵尸 杂交版",
             "GameLink":
             [
@@ -140,6 +150,7 @@
             ]
 
         }
-        
+            ]
+        }
     ]
 }

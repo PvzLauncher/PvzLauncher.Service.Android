@@ -1,155 +1,320 @@
 {
-    "ListIndex":[
+    "ListIndex": [
         {
-            "kindname":"原版",
-            "GameIndex":[
+            "kindname": "原版",
+            "GameIndex": [
                 {
-            
-            "GameName":"植物大战僵尸 一代",
-            "GameLink":[
-                {
-                    "VersionName":"国际版原版",
-                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/1Ke58Kzr",
-                    "VersionVer":"1.2",
-                    "VersionSize":"76.93MB"
+                    "GameName": "植物大战僵尸 一代",
+                    "GameLink": [
+                        {
+                            "VersionName": "国际版原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/1Ke58Kzr",
+                            "VersionVer": "1.2",
+                            "VersionSize": "76.93MB"
+                        },
+                        {
+                            "VersionName": "国际版修改器版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/D9e58n9z",
+                            "VersionVer": "1.2",
+                            "VersionSize": "74.90MB"
+                        }
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Origin.png",
+                    "GameDescription": "《植物大战僵尸》（Plants vs. Zombies，PVZ）是由美国宝开游戏公司（PopCap Games）设计师范乔治（George Fan）主导开发的一款益智策略类塔防御战游戏，其创作灵感源于《怪鱼水族馆》续集企划，后转型为以植物对抗僵尸为主题的塔防玩法。游戏最早被命名为《活死人之园》，影射僵尸电影《活死人黎明》。因法律原因，最终改名为《植物大战僵尸》。游戏于2009年5月5日发售， 支持平台包含PC, Mac, Mobile等。\r\n玩家通过武装多种植物切换不同的功能，快速有效地把僵尸阻挡在入侵的道路上。多达50个的冒险模式关卡设定，从白天到夜晚，从房顶到游泳池，场景变化多样。有26种不同的僵尸敌人，50多种功能强大的植物，而每个场景最多只能选用10种植物，这就需要玩家根据自己的游戏策略来作出取舍；可收集硬币购买宠物蜗牛等多种可选道具。游戏提供五种主要模式：冒险模式；迷你游戏与解谜模式；生存模式；禅境花园。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/005.png"
+                    ],
+                    "latestupdatetime": "2026-07-14",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 3
+                    },
+                    "recommend": true
                 },
                 {
-                    "VersionName":"国际版修改器版",
-                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/D9e58n9z",
-                    "VersionVer":"1.2",
-                    "VersionSize":"74.90MB"
+                    "GameName": "植物大战僵尸 二代",
+                    "GameLink": [
+                        {
+                            "VersionName": "国际版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/aEGBntG",
+                            "VersionVer": "13.3.1",
+                            "VersionSize": "985.35MB"
+                        },
+                        {
+                            "VersionName": "国服",
+                            "VersionLink": "https://pvz2apk-cdn.hrgame.com.cn/416/baokai_4.1.6_1825_603_dj2.0-4.0.0.apk",
+                            "VersionVer": "4.1.6",
+                            "VersionSize": "2.33GB"
+                        }
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv2.png",
+                    "GameDescription": "《植物大战僵尸2》系列（Plants vs. Zombies 2 Series）是由美国宝开游戏公司（PopCap Games）开发、美国艺电公司（Electronic Arts，EA）发行的休闲策略塔防游戏IP系列，是2009年发行的《植物大战僵尸》的正统续作延伸IP，核心围绕“植物抵御僵尸入侵”的核心设定，以时空穿越为叙事主线，融合策略塔防、休闲养成、竞技互动等多元玩法，衍生出多款游戏作品及各类周边内容，覆盖全年龄段玩家，成为全球极具影响力的休闲游戏IP之一。\r\n植物大战僵尸2系列延续了初代“收集阳光、种植植物、抵御僵尸”的核心塔防逻辑，在此基础上丰富了世界观与玩法体系，形成了独特的IP标识,该IP自推出以来获得广泛认可，形成了众多的二次创作和衍生作品。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/005.png"
+                    ],
+                    "latestupdatetime": "2026-08-02",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "arm64-v8a","armeabi-v7a"
+                        ],
+                        "SupportSystem": 24
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 三代",
+                    "GameLink": [
+                        {
+                            "VersionName": "国际版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/VLvynUd",
+                            "VersionVer": "30.3.9",
+                            "VersionSize": "179.46MB"
+                        },
+                        {
+                            "VersionName": "国服",
+                            "VersionLink": "https://pvz3-mdownload.mengxingstar.com/latest/pvz3-latest.apk",
+                            "VersionVer": "10.3.0",
+                            "VersionSize": "874.22MB"
+                        }
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv3.png",
+                    "GameDescription": "EA正版授权新作《植物大战僵尸3》，时隔12年，重磅来袭！ 游戏不仅延续了广受喜爱的经典塔防玩法与幽默风格，更创新引入“元素系统”，大幅拓展策略维度，带来全新对战体验。 多种新模式、新玩法加入战场，无论你是策略爱好者还是偏爱随机乐趣，都能在这里找到属于自己的战场！ 还有多种脑洞大开的新植物与搞怪十足的新僵尸正式登场，并搭配全新的植物培养系统，由你亲手培育最强战力！解锁植物进阶形态，提升专属技能效果，由你主导强化方向，每株植物都能成长为独一无二的战场王牌！ 戴夫：“嘿！听说你们等得花儿都谢了？这次可别让僵尸啃了脑子！”\r\n无论你喜欢策略游戏、快节奏的塔防，还是混乱的动作，《植物大战僵尸™ 3：进化》都为防御每一次僵尸攻击带来了全新的诠释。今天就来到邻居镇，一起成长、融合并尝试新战术，帮助打造一个狂野、充满墨西哥卷饼的塔防，抵御僵尸博士的最新入侵！",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/005.png"
+                    ],
+                    "latestupdatetime": "2026-08-02",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "arm64-v8a"
+                        ],
+                        "SupportSystem": 25
+                    },
+                    "recommend": false
                 }
-            ],
-            "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Origin.png",
-            "GameDescription":"《植物大战僵尸》（Plants vs. Zombies，PVZ）是由美国宝开游戏公司（PopCap Games）设计师范乔治（George Fan）主导开发的一款益智策略类塔防御战游戏，其创作灵感源于《怪鱼水族馆》续集企划，后转型为以植物对抗僵尸为主题的塔防玩法。游戏最早被命名为《活死人之园》，影射僵尸电影《活死人黎明》。因法律原因，最终改名为《植物大战僵尸》。游戏于2009年5月5日发售， 支持平台包含PC, Mac, Mobile等。\r\n玩家通过武装多种植物切换不同的功能，快速有效地把僵尸阻挡在入侵的道路上。多达50个的冒险模式关卡设定，从白天到夜晚，从房顶到游泳池，场景变化多样。有26种不同的僵尸敌人，50多种功能强大的植物，而每个场景最多只能选用10种植物，这就需要玩家根据自己的游戏策略来作出取舍；可收集硬币购买宠物蜗牛等多种可选道具。游戏提供五种主要模式：冒险模式；迷你游戏与解谜模式；生存模式；禅境花园。",
-            "ScreenShoot":[
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/001.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/002.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/003.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/004.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Origin/005.png"
             ]
         },
         {
-            "GameName":"植物大战僵尸 二代",
-            "GameLink":
-            [
+            "kindname": "改版",
+            "GameIndex": [
                 {
-                    "VersionName":"国际版",
-                    "VersionLink":"https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/Nk2bLh1",
-                    "VersionVer":"13.2.1",
-                    "VersionSize":"967.93MB"
+                    "GameName": "植物大战僵尸 杂交版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/L8e8Miii",
+                            "VersionVer": "0.12",
+                            "VersionSize": "369.90MB"
+                        },
+                        {
+                            "VersionName": "修改版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/ZPe8MNmu",
+                            "VersionVer": "0.12",
+                            "VersionSize": "390.45MB"
+                        }
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ZaJiao.png",
+                    "GameDescription": "植物大战僵尸杂交版是由B站UP主潜艇伟伟迷主导开发的一款同人塔防游戏，于2024年3月27日正式发布。它基于原版PopCap引擎制作，忠实保留经典塔防核心玩法，同时创新引入“植物杂交”系统，成为2024年备受老玩家推崇的经典改版代表作，并于同年6月19日正式入驻《植物大战僵尸》官方创意模式。\r\n该版本的核心特点在于植物杂交机制。游戏内置了诸多杂交植物，例如豌豆射手与向日葵杂交后同时具备射击与产阳光功能，火炬树桩与坚果杂交则形成兼具防御与火焰增强的火炬坚果。杂交植物按稀有度分为白卡、金卡、钻卡、星卡与彩卡，解锁方式多样（冒险关卡渐进、金卡需挑战通关、星卡需星星收集等），阳光消耗与冷却时间均经重新平衡。同时新增大量原创植物、强化僵尸（如读报冰车僵尸、头盔变体）及多个高难度关卡，策略深度显著提升。\r\n杂交版也包含了冒险、挑战、迷你游戏、生存及隐藏副本等多种模式，僵尸AI与出场机制优化明显，画面音效完全忠于原作。虽因原版引擎限制偶有闪退，但支持经典鼠标操作与后台运行，作者持续更新优化，使其成为原版引擎改版中平衡性与可玩性兼备的典范之作。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/005.png"
+                    ],
+                    "latestupdatetime": "2026-07-14",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "arm64-v8a"
+                        ],
+                        "SupportSystem": 24
+                    },
+                    "recommend": true
                 },
                 {
-                    "VersionName":"国服",
-                    "VersionLink":"https://pvz2apk-cdn.hrgame.com.cn/416/baokai_4.1.6_1825_603_dj2.0-4.0.0.apk",
-                    "VersionVer":"4.1.6",
-                    "VersionSize":"2.33GB"
-                }
-            ],
-            "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv2.png",
-            "GameDescription":"《植物大战僵尸2》系列（Plants vs. Zombies 2 Series）是由美国宝开游戏公司（PopCap Games）开发、美国艺电公司（Electronic Arts，EA）发行的休闲策略塔防游戏IP系列，是2009年发行的《植物大战僵尸》的正统续作延伸IP，核心围绕“植物抵御僵尸入侵”的核心设定，以时空穿越为叙事主线，融合策略塔防、休闲养成、竞技互动等多元玩法，衍生出多款游戏作品及各类周边内容，覆盖全年龄段玩家，成为全球极具影响力的休闲游戏IP之一。\r\n植物大战僵尸2系列延续了初代“收集阳光、种植植物、抵御僵尸”的核心塔防逻辑，在此基础上丰富了世界观与玩法体系，形成了独特的IP标识,该IP自推出以来获得广泛认可，形成了众多的二次创作和衍生作品。",
-            "ScreenShoot":[
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/001.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/002.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/003.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/004.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv2/005.png"
-            ]
-
-        },
-        {
-            "GameName":"植物大战僵尸 三代",
-            "GameLink":
-            [
-                {
-                    "VersionName":"国际版",
-                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/kHe6lGSR",
-                    "VersionVer":"30.2.8",
-                    "VersionSize":"211.20MB"
+                    "GameName": "植物大战僵尸 融合版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/q4e8NAOk",
+                            "VersionVer": "3.7",
+                            "VersionSize": "554.69MB"
+                        },
+                        {
+                            "VersionName": "修改版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/oRe8N92O",
+                            "VersionVer": "3.2.1",
+                            "VersionSize": "470.04MB"
+                        }
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/RongHe.png",
+                    "GameDescription": "植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。\r\n该版本的核心特点是玩家可将两株植物叠加种植进行融合，生成具备复合能力的新植物。例如豌豆射手与向日葵融合后，既能生产阳光又能射击；樱桃炸弹与豌豆融合则变为爆炸射手。融合支持多阶升级与道具叠加，配方随关卡逐步解锁，同时新增大量原创植物、僵尸及机制，阳光消耗与平衡均重新调整，使策略深度大幅提升。\r\n此外，融合版包含冒险、挑战、解谜、生存及独特的旅行模式（Roguelike究极对战），还设有副卡选卡、肥料增益等特色玩法。画面保留原作风趣，更新持续活跃，因平衡性优秀且无争议而备受玩家推崇，成为融合种植塔防的代表之作。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/005.png"
+                    ],
+                    "latestupdatetime": "2026-07-14",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "arm64-v8a"
+                        ],
+                        "SupportSystem": 22
+                    },
+                    "recommend": true
                 },
                 {
-                    "VersionName":"国服",
-                    "VersionLink":"https://pvz3-mdownload.mengxingstar.com/latest/pvz3-latest.apk",
-                    "VersionVer":"10.3.0",
-                    "VersionSize":"874.22MB"
-                }
-            ],
-            "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv3.png",
-            "GameDescription":"EA正版授权新作《植物大战僵尸3》，时隔12年，重磅来袭！ 游戏不仅延续了广受喜爱的经典塔防玩法与幽默风格，更创新引入“元素系统”，大幅拓展策略维度，带来全新对战体验。 多种新模式、新玩法加入战场，无论你是策略爱好者还是偏爱随机乐趣，都能在这里找到属于自己的战场！ 还有多种脑洞大开的新植物与搞怪十足的新僵尸正式登场，并搭配全新的植物培养系统，由你亲手培育最强战力！解锁植物进阶形态，提升专属技能效果，由你主导强化方向，每株植物都能成长为独一无二的战场王牌！ 戴夫：“嘿！听说你们等得花儿都谢了？这次可别让僵尸啃了脑子！”\r\n无论你喜欢策略游戏、快节奏的塔防，还是混乱的动作，《植物大战僵尸™ 3：进化》都为防御每一次僵尸攻击带来了全新的诠释。今天就来到邻居镇，一起成长、融合并尝试新战术，帮助打造一个狂野、充满墨西哥卷饼的塔防，抵御僵尸博士的最新入侵！",
-            "ScreenShoot":[
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/001.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/002.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/003.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/004.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Originv3/005.png"
-            ]
+                    "GameName": "植物大战僵尸 TV版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/xbQaqUV",
+                            "VersionVer": "1.1.8",
+                            "VersionSize": "150.16MB"
+                        },
+                        {
+                            "VersionName": "触控版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/RYvg2sB",
+                            "VersionVer": "1.1.5",
+                            "VersionSize": "106.02MB"
+                        },
+                        {
+                            "VersionName": "触控随机版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/A6X4BFB",
+                            "VersionVer": "1.1.5",
+                            "VersionSize": "175.43MB"
+                        }
 
-        }
-        
-            ]
-                
-        },
-        {
-            "kindname":"改版",
-            "GameIndex":[
-                {
-            "GameName":"植物大战僵尸 杂交版",
-            "GameLink":
-            [
-                {
-                    "VersionName":"原版",
-                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/L8e8Miii",
-                    "VersionVer":"0.12",
-                    "VersionSize":"369.90MB"
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/RongHe.png",
+                    "GameDescription": "植物大战僵尸tv版是专为电视设计优化的一个植物大战僵尸改版，虽然在游戏界面上有所不同，但是在游戏的内容上，这个移植版本不仅收录了原版植物大战僵尸的冒险模式，同时也移植了部分小游戏，甚至增加了其他版本没有的多人对战模式。为了适应TV的操作模式，在游戏节奏上以及操作方式上游戏做出了一些更改，比如阳光变为自动收集、增加遮挡视野的草丛、更加方便快捷的种植按键等，让你能在电视上也能体验到种植植物战胜僵尸的乐趣。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/TV/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/TV/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/TV/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/TV/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/TV/005.png"
+                    ],
+                    "latestupdatetime": "2026-08-02",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 21
+                    },
+                    "recommend": false
                 },
                 {
-                    "VersionName":"修改版",
-                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/ZPe8MNmu",
-                    "VersionVer":"0.12",
-                    "VersionSize":"390.45MB"
-                }
-            ],
-            "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ZaJiao.png",
-            "GameDescription":"植物大战僵尸杂交版是由B站UP主潜艇伟伟迷主导开发的一款同人塔防游戏，于2024年3月27日正式发布。它基于原版PopCap引擎制作，忠实保留经典塔防核心玩法，同时创新引入“植物杂交”系统，成为2024年备受老玩家推崇的经典改版代表作，并于同年6月19日正式入驻《植物大战僵尸》官方创意模式。\r\n该版本的核心特点在于植物杂交机制。游戏内置了诸多杂交植物，例如豌豆射手与向日葵杂交后同时具备射击与产阳光功能，火炬树桩与坚果杂交则形成兼具防御与火焰增强的火炬坚果。杂交植物按稀有度分为白卡、金卡、钻卡、星卡与彩卡，解锁方式多样（冒险关卡渐进、金卡需挑战通关、星卡需星星收集等），阳光消耗与冷却时间均经重新平衡。同时新增大量原创植物、强化僵尸（如读报冰车僵尸、头盔变体）及多个高难度关卡，策略深度显著提升。\r\n杂交版也包含了冒险、挑战、迷你游戏、生存及隐藏副本等多种模式，僵尸AI与出场机制优化明显，画面音效完全忠于原作。虽因原版引擎限制偶有闪退，但支持经典鼠标操作与后台运行，作者持续更新优化，使其成为原版引擎改版中平衡性与可玩性兼备的典范之作。",
-            "ScreenShoot":[
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/001.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/002.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/003.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/004.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZaJiao/005.png"
-            ]
-
-        },
-        {
-            "GameName":"植物大战僵尸 融合版",
-            "GameLink":
-            [
-                {
-                    "VersionName":"原版",
-                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/q4e8NAOk",
-                    "VersionVer":"3.7",
-                    "VersionSize":"554.69MB"
+                    "GameName": "植物大战僵尸 长城版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/5X7V3fl",
+                            "VersionVer": "2.1",
+                            "VersionSize": "10.30MB"
+                        },
+                        {
+                            "VersionName": "修改版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/4RmXZFg",
+                            "VersionVer": "2.1",
+                            "VersionSize": "17.40MB"
+                        }
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ChangCheng.png",
+                    "GameDescription": "植物大战僵尸长城版是一款把经典pvz玩法与《西游记》文化元素融合的塔防手游。游戏在保留原作玩法、阳光管理核心机制的基础上，又用妖、将、关卡和剧情把取经路上的故事浓缩成一关关可玩性十足的挑战。植物大战僵尸长城版手机版还引入了新的僵尸如——道长僵尸、蟠桃僵尸、元帅僵尸等带有鲜明西游造型的敌军，还在能力设计上对原植物进行了有针对性的改动或强化，考验玩家的临场应变与阵容搭配。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/001.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/002.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/003.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/004.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/005.jpg"
+                    ],
+                    "latestupdatetime": "2026-08-02",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 3
+                    },
+                    "recommend": false
                 },
                 {
-                    "VersionName":"修改版",
-                    "VersionLink":"https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/oRe8N92O",
-                    "VersionVer":"3.2.1",
-                    "VersionSize":"470.04MB"
+                    "GameName": "植物大战僵尸 西游版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/eNodzHg",
+                            "VersionVer": "2.1",
+                            "VersionSize": "22.40MB"
+                        },
+                        {
+                            "VersionName": "修改版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/vVzYwhE",
+                            "VersionVer": "2.1",
+                            "VersionSize": "23.30MB"
+                        }
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/XiYou.png",
+                    "GameDescription": "植物大战僵尸西游版是一款把经典pvz玩法与《西游记》文化元素融合的塔防手游。游戏在保留原作玩法、阳光管理核心机制的基础上，又用妖、将、关卡和剧情把取经路上的故事浓缩成一关关可玩性十足的挑战。植物大战僵尸西游版手机版还引入了新的僵尸如——道长僵尸、蟠桃僵尸、元帅僵尸等带有鲜明西游造型的敌军，还在能力设计上对原植物进行了有针对性的改动或强化，考验玩家的临场应变与阵容搭配。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XiYou/000.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XiYou/001.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XiYou/002.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XiYou/003.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XiYou/004.jpg"
+                    ],
+                    "latestupdatetime": "2026-08-02",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 3
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 新指导版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/Wz4byI3",
+                            "VersionVer": "0.371",
+                            "VersionSize": "141.20MB"
+                        }
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ZhiDao.png",
+                    "GameDescription": "植物大战僵尸新指导版是由B站UP主“头牛o”制作的僵尸策略塔防游戏，在原指导版基础上进行全面升级，加入了随机指导系统画面中会出现一个山羊头形象，根据不同关卡为玩家提供随机指引（可能有利也可能增加难度），并配有旁白对话模式。游戏包含20种新植物和6种新僵尸，玩家需要灵活搭配植物阵容来应对随机生成的挑战，每局体验都充满新鲜感，丰富的随机要素和策略性让这款经典塔防游戏焕发出全新乐趣。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZhiDao/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZhiDao/002.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZhiDao/003.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZhiDao/004.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ZhiDao/005.jpg"
+                    ],
+                    "latestupdatetime": "2026-08-02",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "arm64-v8a"
+                        ],
+                        "SupportSystem": 23
+                    },
+                    "recommend": false
                 }
-                
-            ],
-            "GameImage":"https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/RongHe.png",
-            "GameDescription":"植物大战僵尸融合版是由B站UP主蓝飘飘fly开发的同人塔防游戏，于2024年6月30日正式发布。它基于原版《植物大战僵尸》核心玩法，使用Unity引擎重制，最大创新在于引入“植物融合”系统，成为2024年最受好评的PvZ同人作品之一。\r\n该版本的核心特点是玩家可将两株植物叠加种植进行融合，生成具备复合能力的新植物。例如豌豆射手与向日葵融合后，既能生产阳光又能射击；樱桃炸弹与豌豆融合则变为爆炸射手。融合支持多阶升级与道具叠加，配方随关卡逐步解锁，同时新增大量原创植物、僵尸及机制，阳光消耗与平衡均重新调整，使策略深度大幅提升。\r\n此外，融合版包含冒险、挑战、解谜、生存及独特的旅行模式（Roguelike究极对战），还设有副卡选卡、肥料增益等特色玩法。画面保留原作风趣，更新持续活跃，因平衡性优秀且无争议而备受玩家推崇，成为融合种植塔防的代表之作。",
-            "ScreenShoot":[
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/001.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/002.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/003.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/004.png",
-                "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/RongHe/005.png"
-            ]
-
-        }
             ]
         }
     ]

@@ -179,6 +179,34 @@
                     "recommend": true
                 },
                 {
+                    "GameName": "植物大战僵尸 嫁接版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/RYBYYfB",
+                            "VersionVer": "1.1",
+                            "VersionSize": "139.30M"
+                        }
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/JiaJie.png",
+                    "GameDescription": "植物大战僵尸嫁接版手机版是一款由B站的童话小责制作的一款改版，该版本支持玩家随心所欲混合植物，搭配出自己想要的植物组合。游戏的核心玩法依旧是塔防，嫁接植物在游戏开始前是非常重要的一个环节，植物们将获得一些元素属性和可视化的数值，玩家可以往自己想要的方向堆叠植物。植物大战僵尸嫁接版里的僵尸也十分强悍且拥有特殊能力，一些非初始植物也会在敌人阵营，击败之后就可以收集，心动的朋友快来下载游玩吧！",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JiaJie/001.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JiaJie/002.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JiaJie/003.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JiaJie/004.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JiaJie/005.jpg"
+                    ],
+                    "latestupdatetime": "2026-08-02",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "arm64-v8a","armeabi-v7a"
+                        ],
+                        "SupportSystem": 21
+                    },
+                    "recommend": false
+                },
+                {
                     "GameName": "植物大战僵尸 TV版",
                     "GameLink": [
                         {

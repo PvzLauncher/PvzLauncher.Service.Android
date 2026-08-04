@@ -10,13 +10,17 @@
                             "VersionName": "国际版原版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/1Ke58Kzr",
                             "VersionVer": "1.2",
-                            "VersionSize": "76.93MB"
+                            "VersionSize": "76.93MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         },
                         {
                             "VersionName": "国际版修改器版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/D9e58n9z",
                             "VersionVer": "1.2",
-                            "VersionSize": "74.90MB"
+                            "VersionSize": "74.90MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Origin.png",
@@ -44,13 +48,17 @@
                             "VersionName": "国际版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/aEGBntG",
                             "VersionVer": "13.3.1",
-                            "VersionSize": "985.35MB"
+                            "VersionSize": "985.35MB",
+                            "VersionPackageName":"com.ea.game.pvz2_row",
+                            "VersionNeedUpdate":true
                         },
                         {
                             "VersionName": "国服",
                             "VersionLink": "https://pvz2apk-cdn.hrgame.com.cn/416/baokai_4.1.6_1825_603_dj2.0-4.0.0.apk",
                             "VersionVer": "4.1.6",
-                            "VersionSize": "2.33GB"
+                            "VersionSize": "2.33GB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv2.png",
@@ -78,13 +86,17 @@
                             "VersionName": "国际版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/VLvynUd",
                             "VersionVer": "30.3.9",
-                            "VersionSize": "179.46MB"
+                            "VersionSize": "179.46MB",
+                            "VersionPackageName":"com.ea.gp.pvz3",
+                            "VersionNeedUpdate":true
                         },
                         {
                             "VersionName": "国服",
                             "VersionLink": "https://pvz3-mdownload.mengxingstar.com/latest/pvz3-latest.apk",
                             "VersionVer": "10.3.0",
-                            "VersionSize": "874.22MB"
+                            "VersionSize": "874.22MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv3.png",
@@ -117,13 +129,17 @@
                             "VersionName": "原版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/L8e8Miii",
                             "VersionVer": "0.12",
-                            "VersionSize": "369.90MB"
+                            "VersionSize": "369.90MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         },
                         {
                             "VersionName": "修改版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/ZPe8MNmu",
                             "VersionVer": "0.12",
-                            "VersionSize": "390.45MB"
+                            "VersionSize": "390.45MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ZaJiao.png",
@@ -151,13 +167,17 @@
                             "VersionName": "原版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/q4e8NAOk",
                             "VersionVer": "3.7",
-                            "VersionSize": "554.69MB"
+                            "VersionSize": "554.69MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         },
                         {
                             "VersionName": "修改版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/oRe8N92O",
                             "VersionVer": "3.2.1",
-                            "VersionSize": "470.04MB"
+                            "VersionSize": "470.04MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/RongHe.png",
@@ -185,7 +205,9 @@
                             "VersionName": "原版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/RYBYYfB",
                             "VersionVer": "1.1",
-                            "VersionSize": "139.30M"
+                            "VersionSize": "139.30M",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/JiaJieA.png",
@@ -213,19 +235,25 @@
                             "VersionName": "原版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/xbQaqUV",
                             "VersionVer": "1.1.8",
-                            "VersionSize": "150.16MB"
+                            "VersionSize": "150.16MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         },
                         {
                             "VersionName": "触控版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/RYvg2sB",
                             "VersionVer": "1.1.5",
-                            "VersionSize": "106.02MB"
+                            "VersionSize": "106.02MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         },
                         {
                             "VersionName": "触控随机版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/A6X4BFB",
                             "VersionVer": "1.1.5",
-                            "VersionSize": "175.43MB"
+                            "VersionSize": "175.43MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
 
                     ],
@@ -254,13 +282,17 @@
                             "VersionName": "原版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/5X7V3fl",
                             "VersionVer": "2.1",
-                            "VersionSize": "10.30MB"
+                            "VersionSize": "10.30MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         },
                         {
                             "VersionName": "修改版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/4RmXZFg",
                             "VersionVer": "2.1",
-                            "VersionSize": "17.40MB"
+                            "VersionSize": "17.40MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ChangCheng.png",
@@ -288,13 +320,17 @@
                             "VersionName": "原版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/eNodzHg",
                             "VersionVer": "2.1",
-                            "VersionSize": "22.40MB"
+                            "VersionSize": "22.40MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         },
                         {
                             "VersionName": "修改版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/vVzYwhE",
                             "VersionVer": "2.1",
-                            "VersionSize": "23.30MB"
+                            "VersionSize": "23.30MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/XiYou.png",
@@ -322,7 +358,9 @@
                             "VersionName": "原版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/Wz4byI3",
                             "VersionVer": "0.371",
-                            "VersionSize": "141.20MB"
+                            "VersionSize": "141.20MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ZhiDao.png",

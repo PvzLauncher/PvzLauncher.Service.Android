@@ -388,7 +388,7 @@
                             "VersionName": "中文版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/E7RxNFb",
                             "VersionVer": "3.3.0",
-                            "VersionSize": "96.6MB",
+                            "VersionSize": "96.60MB",
                             "VersionPackageName":"",
                             "VersionNeedUpdate":false
                         },
@@ -405,10 +405,10 @@
                     "GameDescription": "植物大战僵尸：免费版（缩写为PvZ FREE，在部分设备上称为PvZ FREE HD，缩写为PvZ HD，自2017年11月3日起仅简称为植物大战僵尸）是适用于iOS和Android的植物大战僵尸的版本。可以在Google Play或iTunes (iPhone)，iTunes (iPad)上为Android和iOS购买。它与付费版本基本相同，除了广告更多，漏洞更多，成就比年度版少，生存模式不包括困难关卡。",
                     "ScreenShoot": [
                         "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Free/001.png",
-                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Free/002.jpg",
-                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Free/003.jpg",
-                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Free/004.jpg",
-                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Free/005.jpg"
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Free/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Free/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Free/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Free/005.png"
                     ],
                     "latestupdatetime": "",
                     "supportVersion": {

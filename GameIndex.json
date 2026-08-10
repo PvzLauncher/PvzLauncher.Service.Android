@@ -51,14 +51,6 @@
                             "VersionSize": "985.35MB",
                             "VersionPackageName":"com.ea.game.pvz2_row",
                             "VersionNeedUpdate":true
-                        },
-                        {
-                            "VersionName": "国服",
-                            "VersionLink": "https://pvz2apk-cdn.hrgame.com.cn/416/baokai_4.1.6_1825_603_dj2.0-4.0.0.apk",
-                            "VersionVer": "4.1.6",
-                            "VersionSize": "2.33GB",
-                            "VersionPackageName":"",
-                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv2.png",
@@ -89,14 +81,6 @@
                             "VersionSize": "179.46MB",
                             "VersionPackageName":"com.ea.gp.pvzn3xt",
                             "VersionNeedUpdate":true
-                        },
-                        {
-                            "VersionName": "国服",
-                            "VersionLink": "https://pvz3-mdownload.mengxingstar.com/latest/pvz3-latest.apk",
-                            "VersionVer": "10.3.0",
-                            "VersionSize": "874.22MB",
-                            "VersionPackageName":"",
-                            "VersionNeedUpdate":false
                         }
                     ],
                     "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv3.png",
@@ -356,9 +340,9 @@
                     "GameLink": [
                         {
                             "VersionName": "原版",
-                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/Wz4byI3",
-                            "VersionVer": "0.371",
-                            "VersionSize": "141.20MB",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/K92qQcY",
+                            "VersionVer": "0.491",
+                            "VersionSize": "179.90MB",
                             "VersionPackageName":"",
                             "VersionNeedUpdate":false
                         }

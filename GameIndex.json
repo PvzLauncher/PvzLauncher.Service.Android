@@ -839,6 +839,37 @@
                         "SupportSystem": 16
                     },
                     "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 Gardenless版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/WzADPf3",
+                            "VersionVer": "0.8.2",
+                            "VersionSize": "962.12MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Originv2.png",
+                    "GameDescription": "植物大战僵尸2Gardendless手机版是玩家基于植物大战僵尸2自制的高还原+创新扩展同人塔防游戏，主打回归纯粹策略、高清重制、内容全开放。同时游戏无内购、无等级系统、无付费锁，所有植物、关卡、功能全部免费开放，专注塔防策略乐趣。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Gardenless/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Gardenless/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Gardenless/003.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Gardenless/004.jpg",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Gardenless/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a","arm64-v8a"
+                        ],
+                        "SupportSystem": 27
+                    },
+                    "recommend": false
                 }
             ]
         }

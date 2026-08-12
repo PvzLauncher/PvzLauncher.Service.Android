@@ -238,6 +238,14 @@
                             "VersionSize": "175.43MB",
                             "VersionPackageName":"",
                             "VersionNeedUpdate":false
+                        },
+                        {
+                            "VersionName":"幼儿园触控版",
+                            "VersionLink":"https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/xbk2duV",
+                            "VersionVer":"1.1.5",
+                            "VersionSize":"165.40MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
                         }
 
                     ],
@@ -256,44 +264,6 @@
                             "armeabi-v7a"
                         ],
                         "SupportSystem": 21
-                    },
-                    "recommend": false
-                },
-                {
-                    "GameName": "植物大战僵尸 长城版",
-                    "GameLink": [
-                        {
-                            "VersionName": "原版",
-                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/5X7V3fl",
-                            "VersionVer": "2.1",
-                            "VersionSize": "10.30MB",
-                            "VersionPackageName":"",
-                            "VersionNeedUpdate":false
-                        },
-                        {
-                            "VersionName": "修改版",
-                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/4RmXZFg",
-                            "VersionVer": "2.1",
-                            "VersionSize": "17.40MB",
-                            "VersionPackageName":"",
-                            "VersionNeedUpdate":false
-                        }
-                    ],
-                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ChangCheng.png",
-                    "GameDescription": "植物大战僵尸长城版是一款把经典pvz玩法与《西游记》文化元素融合的塔防手游。游戏在保留原作玩法、阳光管理核心机制的基础上，又用妖、将、关卡和剧情把取经路上的故事浓缩成一关关可玩性十足的挑战。植物大战僵尸长城版手机版还引入了新的僵尸如——道长僵尸、蟠桃僵尸、元帅僵尸等带有鲜明西游造型的敌军，还在能力设计上对原植物进行了有针对性的改动或强化，考验玩家的临场应变与阵容搭配。",
-                    "ScreenShoot": [
-                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/001.jpg",
-                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/002.jpg",
-                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/003.jpg",
-                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/004.jpg",
-                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChangCheng/005.jpg"
-                    ],
-                    "latestupdatetime": "2026-08-02",
-                    "supportVersion": {
-                        "SupportPlatform": [
-                            "armeabi-v7a"
-                        ],
-                        "SupportSystem": 3
                     },
                     "recommend": false
                 },
@@ -317,7 +287,7 @@
                             "VersionNeedUpdate":false
                         }
                     ],
-                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/XiYou.png",
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ChangCheng.png",
                     "GameDescription": "植物大战僵尸西游版是一款把经典pvz玩法与《西游记》文化元素融合的塔防手游。游戏在保留原作玩法、阳光管理核心机制的基础上，又用妖、将、关卡和剧情把取经路上的故事浓缩成一关关可玩性十足的挑战。植物大战僵尸西游版手机版还引入了新的僵尸如——道长僵尸、蟠桃僵尸、元帅僵尸等带有鲜明西游造型的敌军，还在能力设计上对原植物进行了有针对性的改动或强化，考验玩家的临场应变与阵容搭配。",
                     "ScreenShoot": [
                         "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XiYou/000.jpg",
@@ -398,6 +368,473 @@
                     "supportVersion": {
                         "SupportPlatform": [
                             "armeabi-v7a"
+                        ],
+                        "SupportSystem": 16
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 活死人之园版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/9QKlBFd",
+                            "VersionVer": "1.0.0",
+                            "VersionSize": "132.25MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        },
+                        {
+                            "VersionName": "现代扩展版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/zMBN6CM",
+                            "VersionVer": "0.30",
+                            "VersionSize": "135.90MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        },
+                        {
+                            "VersionName":"第二版",
+                            "VersionLink":"https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/K928ZFY",
+                            "VersionVer":"2.0.0",
+                            "VersionSize":"79.41MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/HuoSiRen.png",
+                    "GameDescription": "《活死人之园》是一款基于植物大战僵尸废稿改编的作品，游戏中各位能根据自己的想法来放置不同的植物来进行对抗，轻松来畅享魅力玩法，游戏中每种植物都拥有独特的技能和特点，适用于不同的战斗策略，游戏内设有多种挑战模式，玩家可以在不同关卡中测试并提升自己的策略水平。在这里，玩家不仅能体验到经典的植物大战僵尸塔防玩法，还能感受到内容上的创新变化，为原版粉丝带来全新的游戏体验，开启一段段别样的冒险旅程。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/HuoSiRen/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/HuoSiRen/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/HuoSiRen/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/HuoSiRen/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/HuoSiRen/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 16
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 BT版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/oXyLlT8",
+                            "VersionVer": "0.68",
+                            "VersionSize": "111.99MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        },
+                        {
+                            "VersionName": "扩展版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/nq1GEum",
+                            "VersionVer": "0.82.06",
+                            "VersionSize": "186.48MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/BT.png",
+                    "GameDescription": "植物大战僵尸bt版是由B站宅宅萝卜UP主个人开发的Q版僵尸策略塔防游戏，基于植物大战僵尸玩法改编的独特PVZ改版。在游戏的核心玩法上PVZ_BT选择了继承植物大战僵尸策略塔防的核心玩法，玩家同样需要收取阳光兑换植物以此阻挡僵尸的入侵，不过相较于原版加入了新的植物以及僵尸，如山竹花、鼓风草、宅宅萝卜以及其它植物和搏击手僵尸，丰富了整体游戏的可玩性。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/BT/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/BT/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/BT/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/BT/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/BT/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 22
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 Universe版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/DVx8ku4",
+                            "VersionVer": "1.0.0",
+                            "VersionSize": "326.83MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        },
+                        {
+                            "VersionName": "修改版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/6e8neuN",
+                            "VersionVer": "1.1.1",
+                            "VersionSize": "1.14GB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Universe.png",
+                    "GameDescription": "植物大战僵尸Universe电脑版是由B站UP主闪熠Flashine基于经典策略塔防游戏《植物大战僵尸》制作的改版僵尸塔防策略游戏，此版本带玩家进入全新的地图体验这款古老而热门的塔防游戏，堪称PVZ游戏的终极融合作品，玩家将穿梭于秦始皇陵、流沙、桅杆、功夫世界......作为经典塔防游戏的创新改编，植物大战僵尸Universe将植物与僵尸的对抗升级至宇宙级战略维度；现已开放古埃及与秦始皇陵两大主题篇章，通过差异化地形设计和多样化敌人配置，考验玩家的战术布局能力。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Universe/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Universe/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Universe/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Universe/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Universe/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a","arm64-v8a","x86_64"
+                        ],
+                        "SupportSystem": 16
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 抽卡版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/aEKMNsG",
+                            "VersionVer": "0.35.2",
+                            "VersionSize": "144.18MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        },
+                        {
+                            "VersionName": "修改版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/VLb8kHd",
+                            "VersionVer": "0.35.2",
+                            "VersionSize": "144.18MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ChouKa.png",
+                    "GameDescription":"《植物大战僵尸抽卡版》是由B站up主“时空go蛙”等自制的同人改版游戏。，在经典《植物大战僵尸》基础上增加了抽卡机制。玩家通过抽卡随机获得植物卡片，用这些卡片中的植物抵御僵尸进攻。新增多种植物与僵尸，且植物需通过随机抽卡获得，大大增加了游戏趣味性与不确定性。游戏有多种关卡与无尽模式，难度各异，玩家需不断调整策略应对挑战。此外，还保持了经典像素风格，音效和音乐也精心设计，增强了沉浸感",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChouKa/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChouKa/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChouKa/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChouKa/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ChouKa/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "arm64-v8a"
+                        ],
+                        "SupportSystem": 26
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 戴夫Rush版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/Zq7n5fL",
+                            "VersionVer": "1.01",
+                            "VersionSize": "77.52MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        },
+                        {
+                            "VersionName": "修改版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/ggaMqFQ",
+                            "VersionVer": "1.0",
+                            "VersionSize": "58.09MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/DaiFu.png",
+                    "GameDescription": "这是一款以植物大战僵尸当中的戴夫·史密斯为原型所打造的冒险类游戏，采用经典的2D视角，让你感受不一样的大战僵尸之旅。在以往的植物大战僵尸游戏当中，我们都是属于被动防守的一方，只能静静的在家种着植物，然后等待僵尸的进攻。但是无论坚持的多久，最后或多或少都会被僵尸吃掉了我们的脑子。于是这个时候戴夫看不下去了，他将带着他的猎枪，主动迎着僵尸出击，将前方出现的僵尸全部给干掉。玩家将在这款游戏当中扮演戴夫，与他一起，共同出击，看看是僵尸的血厚，还是我们的子弹更快！",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/DaiFu/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/DaiFu/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/DaiFu/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/DaiFu/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/DaiFu/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 22
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 娘化版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/y5M2jU6",
+                            "VersionVer": "1.2.3",
+                            "VersionSize": "543.40MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/Niang.png",
+                    "GameDescription": "植物娘大战僵尸手机版是一款由B站UP主庄不纯制作的同人塔防游戏，巧妙地将经典的《植物大战僵尸》植物角色进行了二次元美少女拟人化设计。游戏在保留原有玩法的基础上，通过赋予植物们独特的外貌与性格，让玩家体验到全新的乐趣。每个植物不仅拥有个性鲜明的故事背景，还在战斗中展现出与众不同的魅力，带给玩家一场既熟悉又新奇的冒险。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Niang/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Niang/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Niang/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Niang/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/Niang/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a","arm64-v8a","x86_64","x86"
+                        ],
+                        "SupportSystem": 23
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 无双版",
+                    "GameLink": [
+                        {
+                            "VersionName": "无双版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/2v78NCN",
+                            "VersionVer": "2.05",
+                            "VersionSize": "92.45MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        },
+                        {
+                            "VersionName": "真无双版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/dkDMwsV",
+                            "VersionVer": "1.0.0.1",
+                            "VersionSize": "314.40MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/WuShuang.png",
+                    "GameDescription": "植物大战僵尸无双版手机版是B站UP主铜锣戏语基于pvz经典原作打造的创意同人游戏，主打无双般的爽快体验，游戏内不仅加入了多种强化特性的植物角色，让玩家能够畅快暴打僵尸大军，还设计了丰富的趣味模式与创新玩法，为玩家带来耳目一新的塔防战斗体验。植物大战僵尸无双版经过精心的改编后，在保留原作精髓的同时，打造出了别具一格的游戏乐趣。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuShuang/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuShuang/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuShuang/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuShuang/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuShuang/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a","arm64-v8a"
+                        ],
+                        "SupportSystem": 26
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 GHTR版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/zMBRNfM",
+                            "VersionVer": "0.17n",
+                            "VersionSize": "149.24MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/GHTR.png",
+                    "GameDescription": "植物大战僵尸ghtr版本是一款经典趣味的休闲益智游戏。植物大战僵尸ghtr版本在保留原版核心玩法的基础上，增加了如超强僵尸王等新挑战，并引入了更多游戏模式，显著提升了难度和可玩性。植物大战僵尸ghtr版本界面简洁，操作简便，旨在为寻求新鲜感和更高挑战的玩家提供一个焕然一新的游戏体验。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/GHTR/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/GHTR/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/GHTR/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/GHTR/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/GHTR/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a","arm64-v8a","x86","x86_64"
+                        ],
+                        "SupportSystem": 21
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 MC版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/wewM5TK",
+                            "VersionVer": "1.13",
+                            "VersionSize": "101.17MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        },
+                        {
+                            "VersionName": "重置版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/QzMmmHm",
+                            "VersionVer": "0.2.5",
+                            "VersionSize": "63.02MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/MC.png",
+                    "GameDescription": "mc版植物大战僵尸手机版游戏是一款将经典植物大战僵尸玩法与我的世界(Minecraft)风格相结合的塔防游戏。在这款游戏中，玩家将穿越到像素化的方块世界，利用植物大战僵尸中的植物，与成群的僵尸展开激烈对抗。玩家需要巧妙地布置植物，利用它们各自的独特技能来抵御源源不断的僵尸攻击，同时还可以在我的世界的沙盒环境中自由探索、建造和升级防线。随着mc版植物大战僵尸手机版游戏进程的推进，玩家可以解锁更多植物、增强防御设施，提升战斗力，挑战更加强大的敌人。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/MC/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/MC/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/MC/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/MC/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/MC/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 22
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 垃圾桶军团版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/9QKlBFd",
+                            "VersionVer": "1.0.0",
+                            "VersionSize": "132.25MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/XingTie.png",
+                    "GameDescription": "开拓者们对你的垃圾桶垂涎已久！他们组成了垃圾桶军团准备向你的家园发起进攻！合理使用角色抵御垃圾桶军团的一次次进攻吧！又或者......加入垃圾桶军团！",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XingTie/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XingTie/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XingTie/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XingTie/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/XingTie/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 16
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 生态版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/9QKlBFd",
+                            "VersionVer": "1.0.0",
+                            "VersionSize": "132.25MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/ShengTai.png",
+                    "GameDescription": "《植物大战僵尸生态版》是B站UP主“无脸的程序”制作的多人联机版本，支持1-4人协作，共享阳光与卡槽对抗僵尸。新增天气系统（如雷雨、昼夜）和生态机制，雨天需用水生植物排涝，沼泽地图树荫影响产光。加入薄荷、寒冰双发射手等强化植物，幽灵僵尸需灯光显形，铁桶僵尸免疫黄油。玩家可自定义天气参数，或通过团队配合破解复杂环境。现已开放冒险模式、PVP及跨平台联机，所有内容免费解锁，兼顾策略深度与创新乐趣。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ShengTai/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ShengTai/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ShengTai/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ShengTai/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/ShengTai/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a"
+                        ],
+                        "SupportSystem": 16
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 精华版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/MN94Bsx",
+                            "VersionVer": "2.0.6",
+                            "VersionSize": "338.73MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/XiYou.png",
+                    "GameDescription": "植物大战僵尸精华版是由B站up主萌新迎风听雨以经典策略塔防游戏植物大战僵尸为蓝本题材改编二创而来，因其集合了基本上所有的PvZ官方版本，取其精华，去其糟粕，汇聚为一体，所以取名为精华版。此版本融合包含了其他所有版本的玩法模式，并对植物种类进行了修改以及新增，独占植物，僵尸，关卡，包括长城版、无尽版、西游版等其他版本的特色玩法应有尽有。最后游戏内置成就系统，玩家可以通过达成不同的成就来体验收集的乐趣，堪称塔防控、收集控及体验党的福地天堂。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JingHua/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JingHua/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JingHua/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JingHua/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/JingHua/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "arm64-v8a","x86_64"
+                        ],
+                        "SupportSystem": 26
+                    },
+                    "recommend": false
+                },
+                {
+                    "GameName": "植物大战僵尸 无名版",
+                    "GameLink": [
+                        {
+                            "VersionName": "原版",
+                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/BGZN7i6",
+                            "VersionVer": "0.0.2",
+                            "VersionSize": "124.02MB",
+                            "VersionPackageName":"",
+                            "VersionNeedUpdate":false
+                        }
+                    
+                    ],
+                    "GameImage": "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameAssets/WuMing.png",
+                    "GameDescription": "植物大战僵尸无名版是一款有趣的休闲策略游戏，游戏中的玩法非常的经典，但给小伙伴们准备了四个模式，每个模式中都有不同的玩法模式，需要小伙伴们使用给出的植物和僵尸进行战斗，保护自己的房子。",
+                    "ScreenShoot": [
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuMing/001.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuMing/002.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuMing/003.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuMing/004.png",
+                        "https://raw.giteeusercontent.com/Wang120229/PvzLauncher.Service.Android/raw/main/GameScreenShoots/WuMing/005.png"
+                    ],
+                    "latestupdatetime": "",
+                    "supportVersion": {
+                        "SupportPlatform": [
+                            "armeabi-v7a","arm64-v8a","x86","x86_64"
                         ],
                         "SupportSystem": 16
                     },

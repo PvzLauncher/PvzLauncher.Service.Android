@@ -216,14 +216,6 @@
                     "GameName": "植物大战僵尸 TV版",
                     "GameLink": [
                         {
-                            "VersionName": "原版",
-                            "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/xbQaqUV",
-                            "VersionVer": "1.1.8",
-                            "VersionSize": "150.16MB",
-                            "VersionPackageName":"",
-                            "VersionNeedUpdate":false
-                        },
-                        {
                             "VersionName": "触控版",
                             "VersionLink": "https://lz.qaiu.top/parser?url=https://pan.huang1111.cn/s/RYvg2sB",
                             "VersionVer": "1.1.5",
